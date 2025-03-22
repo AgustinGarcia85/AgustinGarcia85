@@ -44,8 +44,7 @@ I am focused on building intelligent agents and systems. Marine Corps veteran tu
 
 <div align="center">
 
-[![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:agarcia@protonmail.com)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](YOUR_LINKEDIN_URL)
+[![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aagarcia@protonmail.com)
 
 </div>
 
@@ -53,7 +52,7 @@ I am focused on building intelligent agents and systems. Marine Corps veteran tu
 
 <div align="center">
   
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AgustinGarcia85&show_icons=true&theme=radical)
 
 </div>
 
